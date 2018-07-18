@@ -17,6 +17,7 @@ a{
   width: 60%;
   margin: 0 auto;
   padding: 3% 0 3% 0;
+  text-transform: capitalize;
 }
 .images{
   display: flex;
@@ -24,12 +25,15 @@ a{
   width: 60%;
   margin: 0 auto;
 }
-.images img{
+.images .image{
   height:46%;
   width: 46%;
   margin: 2%;
   border-radius: 5px;
-  border: 5px solid gray;
+}
+.images .image>img{
+  border-radius: 5px;
+  border: 3px solid #e40
 }
 .text{
   width: 60%;
@@ -41,8 +45,11 @@ a{
   padding-left: 5px;
   padding-bottom: 5px;
 }
-.text p,h4{
+.text p,h1{
   padding-bottom: 2px;
+}
+h1{
+  font-weight: 400;
 }
 hr{
   margin: 3px 0;
