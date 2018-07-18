@@ -12,7 +12,7 @@ No known bugs.
 HTML
 CSS
 ## Support and contact details
-twitter: francescas_palace
-email:odenydinah@gmail.com
-TEl: 0780-860-287.
+*twitter: francescas_palace
+*email:odenydinah@gmail.com
+*TEl: 0780-860-287.
 ### License
